@@ -1,2 +1,2 @@
-console.log("Hello  world welcome");
+console.log("MASTER");
 console.log("feature1");
